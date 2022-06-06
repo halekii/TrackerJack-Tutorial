@@ -32,7 +32,7 @@ Features
 * Add additional pointclouds and layers after intital file is built.
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+how to :doc:`installation` the project.
 
 .. note::
    This project is under active development.
