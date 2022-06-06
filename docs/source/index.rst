@@ -8,6 +8,10 @@ The fast and easy way to export `After Effects <https://www.adobe.com/products/a
 External hyperlinks, like `Python
 <http://www.python.org/>`_.
 
+External hyperlinks, like Python_.
+
+.. _Python: http://www.python.org/
+
 Why?
 
 Blender is a fantastic tool with many powerful features for 3D. While it contains a versatile 3d Tracker, it can be very cumbersome and time consuming. Adobe After Effects has a very fast and easy to use 3d Camera Tracker.
