@@ -5,6 +5,8 @@ What is TrackerJack?
 
 The fast and easy way to export `After Effects <https://www.adobe.com/products/aftereffects.html>` 3d Camera tracked footage including Cameras, Pointclouds, and Solids into `Blender <https://www.blender.org>`.
 
+External hyperlinks, like `Python
+<http://www.python.org/>`_.
 
 Why?
 
