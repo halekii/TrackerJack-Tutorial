@@ -3,7 +3,7 @@ TrackerJack Tutorial
 
 What is TrackerJack?
 
-The fast and easy way to export `After Effects <https://www.adobe.com/products/aftereffects.html>`_ 3d Camera tracked footage including Cameras, Pointclouds, and Solids into `Blender <https://www.blender.org>`_.
+The fast and easy way to export `After Effects <https://www.adobe.com/products/aftereffects.html>`_ 3d Camera tracked footage including Cameras, Nulls, and Solids into `Blender <https://www.blender.org>`_ as tracked Cameras with Bacground footage, Pointclouds, and Planes.
 
 Why?
 
