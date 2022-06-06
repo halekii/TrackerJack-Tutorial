@@ -8,6 +8,19 @@ Quick Start
 
    <a href="https://youtu.be/MNyxm5eU8Sg?t=63" target="_blank">Video Link</a>
 
+#. Install TrackerJack_AE.jsxbin to your After Effects ScriptUI Panels folder and :ref:`install<Installation>` if you haven't already.
+#. Add  to your ScriptUI Panels folder (After Effects > Scripts > ScriptUI Panels)
+#. Open After Effects, and launch the TrackerJack Panel via the Windows Menu (Windows > TrackerJack_AE.jsxbin)
+#. Add footage and create a composition.
+#. Use Effects > 3D Camera Tracker on the footage layer in your composition.
+#. Select points and right click to create Origin and Ground
+#. Create Solid and Camera
+#. Add additional nulls and sloids as desired.
+#. Enter the Camera information on the TrackerJack panel
+#. Save the After Effects file.
+#. Click the Export JSON button on the TrackerJack Panel
+
+
 
 #. Open Blender and :ref:`install<Installation>` the add-on if you haven't already.
 #. Press '0' to switch to the Camera view, or go to *View* -> *Cameras* -> *Active Camera*.
