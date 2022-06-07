@@ -21,7 +21,7 @@ After Effects Panel Install
 .. image:: images/Quick-Start-AE.gif
   :alt: TrackerJack_AE Installed
 ----------------------------
-Blender Addon Install
+Blender Add-on Install
 ----------------------------
 #. Go to *Edit* -> *Preferences*.
 #. Select the *Add-ons* tab on the left if it is not already.
