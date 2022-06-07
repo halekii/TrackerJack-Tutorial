@@ -34,10 +34,6 @@ Features
 Check out the :doc:`usage` section for further information, including
 how to :doc:`installation` the project.
 
-.. note::
-   This project is under active development.
-   
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -48,3 +44,9 @@ how to :doc:`installation` the project.
    Blender Import Details
    Tips
    Contact
+   
+   
+.. note::
+   This project is under active development.
+   
+
