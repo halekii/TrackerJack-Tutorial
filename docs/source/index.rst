@@ -36,7 +36,10 @@ how to :doc:`installation` the project.
 
 
 .. toctree::
-
+   :maxdepth: 2
+   :caption: Contents:
+   
+   index
    installation
       
    
