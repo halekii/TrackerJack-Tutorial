@@ -34,12 +34,11 @@ Features
 Check out the :doc:`usage` section for further information, including
 how to :doc:`installation` the project.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
-   Installation
-   
+.. toctree::
+
+   installation
+      
    
 .. note::
    This project is under active development.
