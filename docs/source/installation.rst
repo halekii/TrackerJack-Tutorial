@@ -31,8 +31,8 @@ Blender Addon Install
 #. Search for the add-on by typing **TrackerJack_importer** in the search box if it does not already appear.
 #. Make sure the checkbox next to the Add-on (**Import-Export: TrackerJack**) is checked:
 
-.. image:: images/installBlender_screen.jpg
+.. image:: images/Quick-Start-Blender.gif
   :alt: TrackerJack Importer Installed
 
-If you have any issues do not hesitate to get in touch via `support@trackerjackapp.com <mailto:support@trackerjackapp.com>`_.
+If you have any issues please reach out for assistance at  `support@trackerjackapp.com <mailto:support@trackerjackapp.com>`_.
 
