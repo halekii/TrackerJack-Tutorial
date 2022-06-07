@@ -39,11 +39,6 @@ how to :doc:`installation` the project.
    :caption: Contents:
 
    Installation
-   Quick Start
-   After Effects Panel Details
-   Blender Import Details
-   Tips
-   Contact
    
    
 .. note::
