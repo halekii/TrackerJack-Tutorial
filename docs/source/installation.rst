@@ -15,7 +15,7 @@ After Effects Panel Install
 
 #. Add **TrackerJack_AE.jsxbin** to your ScriptUI Panels folder (After Effects > Scripts > ScriptUI Panels)
 #. Authenticate with your Admin password if necessary.
-#. Open After Effects and Select the **TrackerJack_AE.jsxbin** option in the Windows Menu command.
+#. Open After Effects and select the **TrackerJack_AE.jsxbin** option in the Windows Menu command.
 #. Drag the TrackerJack Panel to your desired location in the UI.
 
 .. image:: images/Quick-Start-AE.gif
@@ -24,7 +24,7 @@ After Effects Panel Install
 ----------------------------
 Blender Add-on Install
 ----------------------------
-#. Go to *Edit* -> *Preferences*.
+#. Open Blender and select to *Edit* -> *Preferences*.
 #. Select the *Add-ons* tab on the left if it is not already.
 #. Select the *Install...* button along the top.
 #. This will open a file dialog. Navigate to where you have downloaded the **TrackerJack_importer.zip** file.  This file should not be unzipped.
