@@ -20,6 +20,7 @@ After Effects Panel Install
 
 .. image:: images/Quick-Start-AE.gif
   :alt: TrackerJack_AE Installed
+  
 ----------------------------
 Blender Add-on Install
 ----------------------------
