@@ -41,6 +41,7 @@ how to :doc:`installation` the project.
    
    index
    installation
+   quick_start
       
    
 .. note::
