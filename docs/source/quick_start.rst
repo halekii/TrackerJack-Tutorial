@@ -18,8 +18,8 @@ Quick Start
         :alt: Import and Track Footage
         
 #. Select points and right click to create Origin and Ground
-#. Create Solid and Camera
-#. Add additional nulls and sloids as desired.
+#. Right click to create Solid and Camera.
+#. Select additional points to create additional nulls and solids as desired.
 
     .. image:: images/AE02-AddItems.gif
         :alt: Import and Track Footage
