@@ -12,12 +12,12 @@ The fast and easy way to export `After Effects <https://www.adobe.com/products/a
 ---------------------------------
 Why?
 ---------------------------------
-Blender is a fantastic tool with many powerful features for 3D. While it contains a versatile 3d Tracker, it can be very cumbersome and time consuming. Adobe After Effects has a very fast and easy to use 3d Camera Tracker.
+Blender is a fantastic tool with many powerful features for 3D. While it contains a versatile 3d Tracker, it can be very cumbersome and time consuming while Adobe After Effects has a very fast and easy to use 3d Camera Tracker. TrackerJack leverages the power and speed of After Effects, so you can spend most of your time in Blender with modeling, animating, and rendering. 
 
 ---------------------------------
 How?
 ---------------------------------
-TrackerJack has 2 components - an Adobe After Effects Panel to export the data and a Blender add-on to import into your Blender file.
+TrackerJack has 2 components - an Adobe After Effects Panel to export the tracked data and a Blender add-on to import the data into your Blender file.
 
 
 ---------------------------------
