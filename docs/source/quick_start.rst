@@ -13,8 +13,10 @@ Quick Start
 #. Open After Effects, and launch the TrackerJack Panel via the Windows Menu (Windows > TrackerJack_AE.jsxbin)
 #. Add footage and create a composition.
 #. Use Effects > 3D Camera Tracker on the footage layer in your composition.
+
     .. image:: images/AE01-Import.gif
         :alt: Import and Track Footage
+        
 #. Select points and right click to create Origin and Ground
 #. Create Solid and Camera
 #. Add additional nulls and sloids as desired.
