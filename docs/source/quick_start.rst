@@ -21,7 +21,7 @@ Quick Start
 #. Create Solid and Camera
 #. Add additional nulls and sloids as desired.
 
-    .. image:: images/AE01-Import.gif
+    .. image:: images/AE02-AddItems.gif
         :alt: Import and Track Footage
         
 #. Enter the Camera information on the TrackerJack panel
