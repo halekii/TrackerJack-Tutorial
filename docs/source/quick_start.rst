@@ -20,6 +20,10 @@ Quick Start
 #. Select points and right click to create Origin and Ground
 #. Create Solid and Camera
 #. Add additional nulls and sloids as desired.
+
+    .. image:: images/AE01-Import.gif
+        :alt: Import and Track Footage
+        
 #. Enter the Camera information on the TrackerJack panel
 #. Save the After Effects file.
 #. Click the Export JSON button on the TrackerJack Panel
