@@ -7,7 +7,7 @@ What is TrackerJack?
 ---------------------------------
 .. Insert animated gif here
 
-The fast and easy way to export `After Effects <https://www.adobe.com/products/aftereffects.html>`_ 3d Camera tracked footage including cameras, nulls, and solids into `Blender <https://www.blender.org>`_ as tracked cameras with background ootage, vector pointclouds, and planes.
+The fast and easy way to export `After Effects <https://www.adobe.com/products/aftereffects.html>`_ 3d Camera tracked footage including cameras, nulls, and solids into `Blender <https://www.blender.org>`_ as tracked cameras with background footage, vector pointclouds, and planes.
 
 ---------------------------------
 Why?
