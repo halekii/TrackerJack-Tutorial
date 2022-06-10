@@ -11,7 +11,7 @@ Quick Start
 #. Install TrackerJack_AE.jsxbin to your After Effects ScriptUI Panels folder and :ref:`installation<After Effects Panel Install>` if you haven't already.  (After Effects > Scripts > ScriptUI Panels)
 #. Open After Effects, and launch the TrackerJack Panel via the Windows Menu (Windows > TrackerJack_AE.jsxbin)
 
-    .. image:: images/AE00Install.gif
+    .. image:: images/AE00-Install.gif
         :alt: Import and Track Footage
         
 #. Add footage and create a composition.
