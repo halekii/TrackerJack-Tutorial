@@ -30,13 +30,12 @@ Quick Start
 #. Enter the Camera information on the TrackerJack panel
 #. Save the After Effects file.
 #. Click the Export JSON button on the TrackerJack Panel
-    .. tip::
-        "Allow scripts to write files and access network" must be enabled in AE Preferences.
 
     .. image:: images/AE03-Export.gif
         :alt: Import and Track Footage
-
-
+    .. tip::
+        "Allow scripts to write files and access network" must be enabled in AE Preferences.
+        
 #. Open Blender and :ref:`installation<Blender Add-on Install>` the add-on if you haven't already.
 #. Press '0' to switch to the Camera view, or go to *View* -> *Cameras* -> *Active Camera*.
 #. Press the 'n' key to open the viewport's side tabs if they are not visible already.
