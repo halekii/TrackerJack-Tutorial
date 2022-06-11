@@ -30,7 +30,11 @@ Quick Start
 #. Enter the Camera information on the TrackerJack panel
 #. Save the After Effects file.
 #. Click the Export JSON button on the TrackerJack Panel
+    .. tip::
+        "Allow scripts to write files and access network" must be enabled in AE Preferences.
 
+    .. image:: images/AE03-Export.gif
+        :alt: Import and Track Footage
 
 
 #. Open Blender and :ref:`installation<Blender Add-on Install>` the add-on if you haven't already.
@@ -42,19 +46,11 @@ Quick Start
 
 #. Go to the tab called *P.Plotter* (it will only be there if you are looking through the camera).
 
-    .. image:: images/pplotter_panel.jpg
-        :alt: Perspective Plotter Panel
+
 
 #. Click the button *Plot Perspective*. The button will now say *Plotting...*. The camera will adjust to a default position with the perspective line control points ready to be adjusted.
 
-    .. image:: images/pplotter_panel_plotting.jpg
-        :alt: Perspective Plotter Panel
-
 #. These perspective lines allow you to align the camera to different vanishing points.  Left-Click and drag on the ends of these axes to manipulate them.  There is a pair of control axes for each vanishing point.  By default, you will be in :ref:`two-point perspective<Two-Point Mode>` mode:
-
-    .. image:: images/plotter_demo_1.gif
-        :alt: Perspective Plotter Controls
-
 
     .. tip::
         See the :ref:`tips<Setting up perspective lines>` section for setting up perspective lines optimally.
