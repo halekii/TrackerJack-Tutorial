@@ -41,7 +41,7 @@ After Effects
         
 Blender
 #################
-#. Open Blender and :ref:`installation<Blender Add-on Install>` the add-on if you haven't already.
+#. Open Blender and :ref:`install<Blender Add-on Install>` the add-on if you haven't already.
 
     .. image:: images/BL00-Install.gif
         :alt: Install Blender Add-on
