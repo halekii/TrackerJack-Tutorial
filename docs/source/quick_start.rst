@@ -48,8 +48,8 @@ Blender
 
 #. Import the JSON data into Blender
 
-   * Press 'a' to select all, then press 'x' and click the delet button to clear the default elements.
-   * Go to the File menu and select "TrackerJack AE Tracking Data (.json)" via the import command.
+   * Press 'a' to select all, then press 'x' and click the *Delete* button to clear the default elements.
+   * Go to the File menu and select *TrackerJack AE Tracking Data (.json)* listed by selecting the import command.
    * Locate and select the JSON file exported from After Effects. (Adjust settings of panel or use default settings)
 
     .. image:: images/BL01-Import.gif
@@ -82,8 +82,4 @@ Blender
    <a href="https://docs.blender.org/manual/en/latest/editors/3dview/navigate/views.html", target="_blank">quad view</a>
 
 
-
-.. |multiple viewports| raw:: html
-
-   <a href="https://docs.blender.org/manual/en/latest/interface/window_system/areas.html", target="_blank">multiple viewports</a>
 
