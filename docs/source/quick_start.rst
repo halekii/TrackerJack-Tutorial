@@ -58,7 +58,8 @@ Blender
 #. Scale and Rotate the World
    * Press '0' to switch to the Camera view, or go to *View* -> *Cameras* -> *Active Camera*.
    .. tip::
-      Pressing Spacebar to play the timeline (Advancing frames) will update the scene if your pointclould doesn't seem to be aligned.
+      Pressing Spacebar to play the timeline (Advancing frames)
+      will update the scene if your pointclould doesn't seem to be aligned.
    * Select the "World" empty in the Scene Outiner
    * Press 's' and adjust the scale so the "Human Scale" mesh matches the scale for your scene.
    * Press 'r' then 'z' and adjust the z rotation so the grid matches your scene.
