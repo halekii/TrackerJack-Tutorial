@@ -45,12 +45,6 @@ Blender
 
     .. image:: images/BL00-Install.gif
         :alt: Install Blender Add-on
-        
-
-•  item 1
-      • item 1.1
-      • item 1.2
-
 
 #. Import the JSON data into Blender
 
