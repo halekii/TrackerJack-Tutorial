@@ -39,6 +39,8 @@ After Effects
     .. tip::
         "Allow scripts to write files and access network" must be enabled in AE Preferences.
         
+Blender
+#################
 #. Open Blender and :ref:`installation<Blender Add-on Install>` the add-on if you haven't already.
 #. Press '0' to switch to the Camera view, or go to *View* -> *Cameras* -> *Active Camera*.
 #. Press the 'n' key to open the viewport's side tabs if they are not visible already.
