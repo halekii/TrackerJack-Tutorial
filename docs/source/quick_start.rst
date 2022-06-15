@@ -56,6 +56,7 @@ Blender
         :alt: Import JSON data
         
 #. Scale and Rotate the World
+
    * Press '0' to switch to the Camera view, or go to *View* -> *Cameras* -> *Active Camera*.
    * Press Spacebar to play the timeline (Advancing frames)
      will update the scene if your pointclould doesn't seem to be aligned.
