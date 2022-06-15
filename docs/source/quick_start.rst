@@ -46,10 +46,10 @@ Blender
     .. image:: images/BL00-Install.gif
         :alt: Install Blender Add-on
         
-#. Press 'a' to select all, then press 'x' and click the delet button to clear the default elements.
-
-   a. Go to the File menu and select "TrackerJack AE Tracking Data (.json)" via the import command.
-   a. Locate the JSON file exported from After Effects
+#.Import the JSON data into Blender
+   *. Press 'a' to select all, then press 'x' and click the delet button to clear the default elements.
+   *. Go to the File menu and select "TrackerJack AE Tracking Data (.json)" via the import command.
+   *. Locate the JSON file exported from After Effects
 
 
 #. Press '0' to switch to the Camera view, or go to *View* -> *Cameras* -> *Active Camera*.
