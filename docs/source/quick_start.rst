@@ -50,19 +50,19 @@ Blender
 
    * Press 'a' to select all, then press 'x' and click the delet button to clear the default elements.
    * Go to the File menu and select "TrackerJack AE Tracking Data (.json)" via the import command.
-   * Locate the JSON file exported from After Effects
+   * Locate and select the JSON file exported from After Effects. (Adjust settings of panel or use default settings)
 
-
-#. Press '0' to switch to the Camera view, or go to *View* -> *Cameras* -> *Active Camera*.
-#. Press the 'n' key to open the viewport's side tabs if they are not visible already.
-
-    .. image:: images/properties_tabs.jpg
-        :alt: Properties Tab
-
-#. Go to the tab called *P.Plotter* (it will only be there if you are looking through the camera).
-
-
-
+    .. image:: images/BL01-Import.gif
+        :alt: Import JSON data
+        
+#. Scale and Rotate the World
+   * Press '0' to switch to the Camera view, or go to *View* -> *Cameras* -> *Active Camera*.
+   .. tip::
+      Pressing Spacebar to play the timeline (Advancing frames) will update the scene if your pointclould doesn't seem to be aligned.
+   * Select the "World" empty in the Scene Outiner
+   * Press 's' and adjust the scale so the "Human Scale" mesh matches the scale for your scene.
+   * Press 'r' then 'z' and adjust the z rotation so the grid matches your scene.
+   
 #. Click the button *Plot Perspective*. The button will now say *Plotting...*. The camera will adjust to a default position with the perspective line control points ready to be adjusted.
 
 #. These perspective lines allow you to align the camera to different vanishing points.  Left-Click and drag on the ends of these axes to manipulate them.  There is a pair of control axes for each vanishing point.  By default, you will be in :ref:`two-point perspective<Two-Point Mode>` mode:
