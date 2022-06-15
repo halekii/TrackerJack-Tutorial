@@ -47,6 +47,7 @@ Blender
         :alt: Install Blender Add-on
         
 #.Import the JSON data into Blender
+
    *. Press 'a' to select all, then press 'x' and click the delet button to clear the default elements.
    *. Go to the File menu and select "TrackerJack AE Tracking Data (.json)" via the import command.
    *. Locate the JSON file exported from After Effects
