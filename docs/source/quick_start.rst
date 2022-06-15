@@ -7,6 +7,9 @@ Quick Start
 .. |Video Link| raw:: html
 
    <a href="https://youtu.be/MNyxm5eU8Sg?t=63" target="_blank">Video Link</a>
+   
+After Effects
+#################
 
 #. Install TrackerJack_AE.jsxbin to your After Effects ScriptUI Panels folder and :ref:`installation<After Effects Panel Install>` if you haven't already.  (After Effects > Scripts > ScriptUI Panels)
 #. Open After Effects, and launch the TrackerJack Panel via the Windows Menu (Windows > TrackerJack_AE.jsxbin)
