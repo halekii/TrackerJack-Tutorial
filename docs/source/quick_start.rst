@@ -15,7 +15,7 @@ After Effects
 #. Open After Effects, and launch the TrackerJack Panel via the Windows Menu (Windows > TrackerJack_AE.jsxbin)
 
     .. image:: images/AE00-Install.gif
-        :alt: Import and Track Footage
+        :alt: Install AE Panel
         
 #. Add footage and create a composition.
 #. Use Effects > 3D Camera Tracker on the footage layer in your composition.
@@ -28,20 +28,29 @@ After Effects
 #. Select additional points to create additional nulls and solids as desired.
 
     .. image:: images/AE02-AddItems.gif
-        :alt: Import and Track Footage
+        :alt: Add AE Items
         
 #. Enter the Camera information on the TrackerJack panel
 #. Save the After Effects file.
 #. Click the Export JSON button on the TrackerJack Panel
 
     .. image:: images/AE03-Export.gif
-        :alt: Import and Track Footage
+        :alt: Export JSON
     .. tip::
         "Allow scripts to write files and access network" must be enabled in AE Preferences.
         
 Blender
 #################
 #. Open Blender and :ref:`installation<Blender Add-on Install>` the add-on if you haven't already.
+
+    .. image:: images/BL00-Install.gif
+        :alt: Install Blender Add-on
+        
+#. Press 'a' to select all, then press 'x' and click the delet button to clear the default elements.
+   #. Go to the File menu and select "TrackerJack AE Tracking Data (.json)" via the import command.
+   ##. Locate the JSON file exported from After Effects
+
+
 #. Press '0' to switch to the Camera view, or go to *View* -> *Cameras* -> *Active Camera*.
 #. Press the 'n' key to open the viewport's side tabs if they are not visible already.
 
