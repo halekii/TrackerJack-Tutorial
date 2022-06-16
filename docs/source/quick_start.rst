@@ -83,6 +83,11 @@ Blender
       
 #. Adding Additional Items
 
+   * In After Effects you set the frame to the frame number in Blender to see the same footage
+   * Select additional tracking points and create additional solids as desired.
+   * Select the "Add" tab in the TrackerJack Panel
+   * Create a name for the new pointcloud, and click *Export*
+   
     .. image:: images/BL03-AdditionalItemsAE.gif
         :alt: Scale and Rotate the World
 
