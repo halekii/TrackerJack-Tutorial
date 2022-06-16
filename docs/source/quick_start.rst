@@ -12,6 +12,7 @@ After Effects
 #################
 
 #. Install After Effects Effects Panel
+
    * Install TrackerJack_AE.jsxbin to your After Effects ScriptUI Panels folder and :ref:`install<After Effects Panel Install>` if you haven't already.  (After Effects > Scripts > ScriptUI Panels)
    * Open After Effects, and launch the TrackerJack Panel via the Windows Menu (Windows > TrackerJack_AE.jsxbin)
 
@@ -19,6 +20,7 @@ After Effects
         :alt: Install AE Panel
         
 #. Add footage and Track
+
    * Add footage and create a composition.
    * Use Effects > 3D Camera Tracker on the footage layer in your composition.
 
@@ -26,6 +28,7 @@ After Effects
         :alt: Import and Track Footage
         
 #. Select tracked points and create elements
+
    * Select points and right click to create Origin and Ground
    * Right click to create Solid and Camera.
    * Select additional points to create additional nulls and solids as desired.
@@ -34,6 +37,7 @@ After Effects
         :alt: Add AE Items
         
 #. Using the TrackerJack Panel
+
    * Enter the Camera information on the TrackerJack panel
    * Save the After Effects file.
    * Click the Export JSON button on the TrackerJack Panel
@@ -48,6 +52,7 @@ After Effects
 Blender
 #################
 #. Install the Addon if you haven't already
+
    * Open Blender and :ref:`install<Blender Add-on Install>.
    * Locate the TrackerJack zip file
    * Enable the check box to activate the add-on
