@@ -41,7 +41,10 @@ After Effects
         
 Blender
 #################
-#. Open Blender and :ref:`install<Blender Add-on Install>` the add-on if you haven't already.
+#. Install the Addon if you haven't already
+   * Open Blender and :ref:`install<Blender Add-on Install>.
+   * Locate the TrackerJack zip file
+   * Enable the check box to activate the add-on
 
     .. image:: images/BL00-Install.gif
         :alt: Install Blender Add-on
@@ -67,19 +70,10 @@ Blender
     .. image:: images/BL02-ScaleandRotate.gif
         :alt: Scale and Rotate the World
       
-       
-#. Click the button *Plot Perspective*. The button will now say *Plotting...*. The camera will adjust to a default position with the perspective line control points ready to be adjusted.
+#. Adding Additional Items
 
-#. These perspective lines allow you to align the camera to different vanishing points.  Left-Click and drag on the ends of these axes to manipulate them.  There is a pair of control axes for each vanishing point.  By default, you will be in :ref:`two-point perspective<Two-Point Mode>` mode:
+    .. image:: images/BL03-AdditionalItemsAE.gif
+        :alt: Scale and Rotate the World
 
-    .. tip::
-        See the :ref:`tips<Setting up perspective lines>` section for setting up perspective lines optimally.
-
-#. You can now choose to :ref:`set up a background<Match Background>` image or video, change the :ref:`parameters<parameters>` to your needs, switch to Blender's |quad view| or use |multiple viewports|. Once you're happy, click the **"Plotting..."** button again to switch the tool off. Your camera settings will be remembered for next time.
-
-.. |quad view| raw:: html
-
-   <a href="https://docs.blender.org/manual/en/latest/editors/3dview/navigate/views.html", target="_blank">quad view</a>
-
-
-
+    .. image:: images/BL04-AdditionalItemsBlender.gif
+        :alt: Scale and Rotate the World
