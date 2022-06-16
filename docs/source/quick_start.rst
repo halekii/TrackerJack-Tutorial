@@ -11,6 +11,8 @@ Quick Start
 After Effects
 #################
 
+We start by importing and 3D Camera tracking our footage in After Effects. Then we create create the origin and ground, a 3D Camera, and nulls and solids as we desire. Then we enter our camera information (and once we have saved the file) and export all of the After Effects data to a JSON file which will be located in the directory of our saved After Effects Project.
+
 #. Install After Effects Effects Panel
 
    * Install TrackerJack_AE.jsxbin to your After Effects ScriptUI Panels folder and :ref:`install<After Effects Panel Install>` if you haven't already.  (After Effects > Scripts > ScriptUI Panels)
@@ -51,6 +53,9 @@ After Effects
 
 Blender
 #################
+
+In Blender we import the JSON file, and view thru our (imported) active camera. We select the world empty which we can scale and rotate to set our scene. A Human Scale mesh is created so as to make the real world scaling easy and accurate. 
+
 #. Install the Addon if you haven't already
 
    * Open Blender and :ref:`install<Blender Add-on Install>.
@@ -80,7 +85,13 @@ Blender
 
     .. image:: images/BL02-ScaleandRotate.gif
         :alt: Scale and Rotate the World
-      
+
+
+Adding Additional Items
+#################
+
+Once you begin modeling your scene in Blender, you may require addtional pointclouds or planes to build out your scene. It is easy to go back to After Effects and create additional layers, ammend the orginal JSON file, and import them into your Blender scene while maintaining the world scale and rotation you have already set.
+
 #. Adding Additional Items - After Effects 
 
    * In After Effects you set the frame to the frame number in Blender to see the same footage
