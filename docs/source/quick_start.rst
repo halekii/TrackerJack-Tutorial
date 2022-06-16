@@ -11,34 +11,40 @@ Quick Start
 After Effects
 #################
 
-#. Install TrackerJack_AE.jsxbin to your After Effects ScriptUI Panels folder and :ref:`installation<After Effects Panel Install>` if you haven't already.  (After Effects > Scripts > ScriptUI Panels)
-#. Open After Effects, and launch the TrackerJack Panel via the Windows Menu (Windows > TrackerJack_AE.jsxbin)
+#. Install After Effects Effects Panel
+   * Install TrackerJack_AE.jsxbin to your After Effects ScriptUI Panels folder and :ref:`install<After Effects Panel Install>` if you haven't already.  (After Effects > Scripts > ScriptUI Panels)
+   * Open After Effects, and launch the TrackerJack Panel via the Windows Menu (Windows > TrackerJack_AE.jsxbin)
 
     .. image:: images/AE00-Install.gif
         :alt: Install AE Panel
         
-#. Add footage and create a composition.
-#. Use Effects > 3D Camera Tracker on the footage layer in your composition.
+#. Add footage and Track
+   * Add footage and create a composition.
+   * Use Effects > 3D Camera Tracker on the footage layer in your composition.
 
     .. image:: images/AE01-Import.gif
         :alt: Import and Track Footage
         
-#. Select points and right click to create Origin and Ground
-#. Right click to create Solid and Camera.
-#. Select additional points to create additional nulls and solids as desired.
+#. Select tracked points and create elements
+   * Select points and right click to create Origin and Ground
+   * Right click to create Solid and Camera.
+   * Select additional points to create additional nulls and solids as desired.
 
     .. image:: images/AE02-AddItems.gif
         :alt: Add AE Items
         
-#. Enter the Camera information on the TrackerJack panel
-#. Save the After Effects file.
-#. Click the Export JSON button on the TrackerJack Panel
+#. Using the TrackerJack Panel
+   * Enter the Camera information on the TrackerJack panel
+   * Save the After Effects file.
+   * Click the Export JSON button on the TrackerJack Panel
 
     .. image:: images/AE03-Export.gif
         :alt: Export JSON
     .. tip::
         "Allow scripts to write files and access network" must be enabled in AE Preferences.
-        
+
+
+
 Blender
 #################
 #. Install the Addon if you haven't already
