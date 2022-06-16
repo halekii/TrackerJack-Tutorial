@@ -81,7 +81,7 @@ Blender
     .. image:: images/BL02-ScaleandRotate.gif
         :alt: Scale and Rotate the World
       
-#. Adding Additional Items
+#. Adding Additional Items - After Effects 
 
    * In After Effects you set the frame to the frame number in Blender to see the same footage
    * Select additional tracking points and create additional solids as desired.
@@ -91,5 +91,11 @@ Blender
     .. image:: images/BL03-AdditionalItemsAE.gif
         :alt: Scale and Rotate the World
 
+#. Adding Additional Items - Blender
+
+   * Go to the File menu and select *TrackerJack AE Tracking Data (.json)* listed by selecting the import command.
+   * In the options panel (press 'n' if necessary) select *Option 2 Add Additional Items*
+   * Click the *Import* button
+   
     .. image:: images/BL04-AdditionalItemsBlender.gif
         :alt: Scale and Rotate the World
