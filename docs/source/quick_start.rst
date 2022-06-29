@@ -18,6 +18,8 @@ We start by importing and 3D Camera tracking our footage in After Effects. Then 
    \a)  Install TrackerJack_AE.jsxbin to your After Effects ScriptUI Panels folder and :ref:`install<After Effects Panel Install>` if you haven't already.  (After Effects > Scripts > ScriptUI Panels)
    
    \b)  Open After Effects, and launch the TrackerJack Panel via the Windows Menu (Windows > TrackerJack_AE.jsxbin)
+   
+   \c) Open After Effects Preferences and make sure that "Allow scripts to write files and access network" is enabled.
 
     .. image:: images/AE01-Install.gif
         :alt: Install AE Panel
