@@ -11,8 +11,6 @@ Quick Start
 After Effects
 #################
 
-We start by importing and 3D Camera tracking our footage in After Effects. Then we create create the origin and ground, a 3D Camera, and nulls and solids as we desire. Then we enter our camera information (and once we have saved the file) and export all of the After Effects data to a JSON file which will be located in the directory of our saved After Effects Project.
-
 #. Install After Effects Effects Panel
 
    \a)  Install TrackerJack_AE.jsxbin to your After Effects ScriptUI Panels folder and :ref:`install<After Effects Panel Install>` if you haven't already.  (After Effects > Scripts > ScriptUI Panels)
@@ -55,7 +53,7 @@ We start by importing and 3D Camera tracking our footage in After Effects. Then 
     .. image:: images/AE04-Export.gif
         :alt: Export JSON
 
-#. Troubleshooting
+Troubleshooting
 
     .. image:: images/AE05-Troubleshooting.gif
         :alt: Export JSON
