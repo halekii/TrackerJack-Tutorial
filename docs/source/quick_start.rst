@@ -63,8 +63,6 @@ Troubleshooting
 Blender
 #################
 
-In Blender we import the JSON file, and view thru our (imported) active camera. We select the world empty which we can scale and rotate to set our scene. A Human Scale mesh is created so as to make the real world scaling easy and accurate. 
-
 #. Install the Addon if you haven't already
 
    * Open Blender and :ref:`install<Blender Add-on Install>.
