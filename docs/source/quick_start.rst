@@ -65,7 +65,7 @@ Blender
 
 #. Install the Addon if you haven't already
 
-   * Open Blender and :ref:`install<Blender Add-on Install>.
+   * Open Blender and :ref:`Installation<Blender Add-on Install>.
    * Locate the TrackerJack zip file
    * Enable the check box to activate the add-on
 
