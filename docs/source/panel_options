@@ -10,16 +10,22 @@ Panel Options
 
 After Effects Panel
 #################
-#. :ref:`Install<Installation>` the UI Panel-on and Open After Effects if you haven't already.
+:ref:`Install<Installation>` the UI Panel-on and Open After Effects if you haven't already.
 
-    .. image:: images/pplotter_panel.jpg
-        :alt: Perspective Plotter Panel
+    .. image:: images/AE_1_tjpanel.png
+        :alt: After Effects TrackerJack Panel
         
-#. Press '0' to switch to the Camera view, or go to *View* -> *Cameras* -> *Active Camera*.
-#. Press the 'n' key to open the viewport's side tabs if they are not visible already.
+There are only two entries to make in order to export your camera tracked composition from After Effects
+to a JSON file that the Blender TrackerJack add-on will import. The Focal Length and Angle of View which
+can be copied from the Camera Settings panel.
 
-    .. image:: images/properties_tabs.jpg
-        :alt: Properties Tab
+#. Double click on the 3D Tracker Camera layer in the comp timeline.
+#. Copy the Focal Length value.
+#. Click Cancel to close the panel
+#. Paste the value into the TrackerJack Focal Length box.
+
+    .. image:: images/AE_2_cam_settings_focal.png
+        :alt: Camera Settings Focal Length
 
 #. Go to the tab called *P.Plotter* (it will only be there if you are looking through the camera).
 
