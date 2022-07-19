@@ -71,9 +71,9 @@ Blender
 
 #. |Install the Addon| if you haven't already
 
-.. |Install the Addon| raw:: html
+   .. |Install the Addon| raw:: html
 
-   <a href="https://trackerjack-tutorial.readthedocs.io/en/latest/installation.html#after-effects-panel-install">Install the Addon</a>
+      <a href="https://trackerjack-tutorial.readthedocs.io/en/latest/installation.html#after-effects-panel-install">Install the Addon</a>
 
    * Open Blender and :ref:`Installation<Blender Add-on Install>.
    * Locate the TrackerJack zip file
