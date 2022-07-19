@@ -13,6 +13,7 @@ After Effects Panel
 
 Create Tab
 _________________
+
 :ref:`Install<Installation>` the UI Panel and open After Effects if you haven't already.
 
     .. image:: images/AE_1_tjpanel.png
@@ -46,16 +47,18 @@ Under the Create tab are only two entries to make in order create the initial ex
         :alt: TrackerJack Angle of View
         
 #. Make sure that you have saved your After Effects file.
-
+#. Click the Export button to create the JSON file. A dialog box with the JSON file location will confirm success.
     .. tip::
         TrackerJack will export the JSON file for Blender to the same location you save your After Effects Project File. When TrackerJack imports your footage into Blender, it first looks for the movie file wherever it was orginally located when imported into After Effects. If the file has moved, it will then look for it in the same folder as the JSON file. The simplist method to avoid issues is to keep your footage file, AE project file, and JSON file in the same folder.
 
-    .. image:: images/pplotter_panel.jpg
-        :alt: Perspective Plotter Panel
 
-#. Click the button *Plot Perspective*. The button will now say *Plotting...*. The camera will adjust to a default position with the perspective line control points ready to be adjusted.
 
-    .. image:: images/pplotter_panel_plotting.jpg
-        :alt: Perspective Plotter Panel
+Add (Optional) Tab
+_________________
 
-#. These perspective lines allow you to align the camera to different vanishing points.  Left-Click and drag on the ends of these axes to manipulate them.  There is a pair of control axes for each vanishing point.  By default, you will be in :ref:`two-point perspective<Two-Point Mode>` mode:
+    .. image:: images/AE_7_tjpanel_add.png
+        :alt: TrackerJack Add Tab
+
+Once you've created your scene in Blender and begun modeling it you may decide to return to After Effects to create additional nulls and solids to add detail where you may not have originally. The add tab allows you to update the existing JSON file with new items you create in Blender. Each time you click Export Additional the file is updated. 
+
+#. Create new nulls and/or solids in your composition. :ref:`Creating Items<Match Background>`
