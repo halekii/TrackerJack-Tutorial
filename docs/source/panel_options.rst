@@ -20,11 +20,13 @@ can be copied from the Camera Settings panel.
 
 #. Double click on the 3D Tracker Camera layer in the comp timeline.
 #. Copy the Focal Length value.
+
+     .. image:: images/AE_2_cam_settings_focal.png
+        :alt: Camera Settings Focal Length
+        
 #. Click Cancel to close the panel
 #. Paste the value into the TrackerJack Focal Length box.
 
-    .. image:: images/AE_2_cam_settings_focal.png
-        :alt: Camera Settings Focal Length
     .. image:: images/AE_3_tjpanel_focal.png
         :alt: TrackerJack Focal Length
 
