@@ -12,7 +12,7 @@ After Effects Panel
 #################
 
 Create Tab
-#################
+_________________
 :ref:`Install<Installation>` the UI Panel and open After Effects if you haven't already.
 
     .. image:: images/AE_1_tjpanel.png
