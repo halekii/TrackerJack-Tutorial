@@ -1,0 +1,34 @@
+#################
+Panel Options
+#################
+
+|Video Link|
+
+.. |Video Link| raw:: html
+
+   <a href="https://youtu.be/MNyxm5eU8Sg?t=63" target="_blank">Video Link</a>
+
+After Effects Panel
+#################
+#. :ref:`Install<Installation>` the UI Panel-on and Open After Effects if you haven't already.
+
+    .. image:: images/pplotter_panel.jpg
+        :alt: Perspective Plotter Panel
+        
+#. Press '0' to switch to the Camera view, or go to *View* -> *Cameras* -> *Active Camera*.
+#. Press the 'n' key to open the viewport's side tabs if they are not visible already.
+
+    .. image:: images/properties_tabs.jpg
+        :alt: Properties Tab
+
+#. Go to the tab called *P.Plotter* (it will only be there if you are looking through the camera).
+
+    .. image:: images/pplotter_panel.jpg
+        :alt: Perspective Plotter Panel
+
+#. Click the button *Plot Perspective*. The button will now say *Plotting...*. The camera will adjust to a default position with the perspective line control points ready to be adjusted.
+
+    .. image:: images/pplotter_panel_plotting.jpg
+        :alt: Perspective Plotter Panel
+
+#. These perspective lines allow you to align the camera to different vanishing points.  Left-Click and drag on the ends of these axes to manipulate them.  There is a pair of control axes for each vanishing point.  By default, you will be in :ref:`two-point perspective<Two-Point Mode>` mode:
