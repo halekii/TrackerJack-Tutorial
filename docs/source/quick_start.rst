@@ -70,6 +70,9 @@ Blender
 #################
 
 #. Install the Addon if you haven't already
+.. |Install the Addon| raw:: html
+
+   <a href="https://trackerjack-tutorial.readthedocs.io/en/latest/installation.html#blender-panel-install">Install</a>
 
    * Open Blender and :ref:`Installation<Blender Add-on Install>.
    * Locate the TrackerJack zip file
