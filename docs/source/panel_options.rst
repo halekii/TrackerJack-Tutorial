@@ -16,7 +16,7 @@ _________________
 
 |InstallAEPanel| the UI Panel and open After Effects if you haven't already.
 
-   .. image:: images/AE_1_tjpanel.png
+ .. image:: images/AE_1_tjpanel.png
       :alt: After Effects TrackerJack Panel
  
  .. |InstallAEPanel| raw:: html
