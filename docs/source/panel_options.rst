@@ -72,3 +72,8 @@ Once you've created your scene in Blender and begun modeling it you may decide t
 
        .. image:: images/AE_8_tjpanel_add_options.png
         :alt: TrackerJack Add Tab Options
+
+#. Click the Export Additional button
+
+.. tip::
+        You can continue to create additional null layers, name them, and then click Export Additional repeatedly if you want more named pointcloud layers before returning to Blender.
