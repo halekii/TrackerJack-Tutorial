@@ -81,4 +81,4 @@ Once you've created your scene in Blender and begun modeling it you may decide t
 #. Click the Export Additional button
 
 .. tip::
-        You can continue to create additional null layers, name them, and then click Export Additional repeatedly if you want more named pointcloud layers before returning to Blender.
+        You can continue to create additional null layers, name them, and then click Export Additional repeatedly if you want to create more named pointcloud layers before returning to Blender.
