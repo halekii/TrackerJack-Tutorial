@@ -65,7 +65,9 @@ Once you've created your scene in Blender and begun modeling it you may decide t
 #. Create new nulls and/or solids in your composition.
 #. Enter a name for the new point cloud (new null layers)
 #. Choose which layers to export
+
    * Auto - will export any new layers since the last export
+   
    * Selected - will export the layers manually selected in the timeline
 
        .. image:: images/AE_8_tjpanel_add_options.png
