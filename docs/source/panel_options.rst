@@ -48,7 +48,8 @@ Under the Create tab are only two entries to make in order create the initial ex
         
 #. Make sure that you have saved your After Effects file.
 #. Click the Export button to create the JSON file. A dialog box with the JSON file location will confirm success.
-    .. tip::
+
+.. tip::
         TrackerJack will export the JSON file for Blender to the same location you save your After Effects Project File. When TrackerJack imports your footage into Blender, it first looks for the movie file wherever it was orginally located when imported into After Effects. If the file has moved, it will then look for it in the same folder as the JSON file. The simplist method to avoid issues is to keep your footage file, AE project file, and JSON file in the same folder.
 
 
