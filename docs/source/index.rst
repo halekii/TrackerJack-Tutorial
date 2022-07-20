@@ -38,20 +38,8 @@ Features
 * Speed shortcuts like background footage and composition node setup.
 * Add additional pointclouds and layers after intital file is built.
 
-Check out the :doc:`usage` section for further information, including
-how to :doc:`installation` the project.
 
 
-.. toctree::
-   :caption: Contents:
-
-   index
-   
-   installation
-   
-   quick_start
-   
-   panel_options
    
 .. note::
    This project is under active development.
