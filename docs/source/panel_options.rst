@@ -14,7 +14,11 @@ After Effects Panel
 Create Tab
 _________________
 
-:ref:`Install<Installation>` the UI Panel and open After Effects if you haven't already.
+|Install| the UI Panel and open After Effects if you haven't already.
+
+   .. |Install| raw:: html
+
+      <a href="https://trackerjack-tutorial.readthedocs.io/en/latest/installation.html#after-effects-panel-install">Install</a>
 
     .. image:: images/AE_1_tjpanel.png
         :alt: After Effects TrackerJack Panel
