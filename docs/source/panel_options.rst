@@ -63,3 +63,10 @@ _________________
 Once you've created your scene in Blender and begun modeling it you may decide to return to After Effects to create additional nulls and solids to add detail where you may not have originally. The add tab allows you to update the existing JSON file with new items you create in Blender. Each time you click Export Additional the file is updated. 
 
 #. Create new nulls and/or solids in your composition.
+#. Enter a name for the new point cloud (new null layers)
+#. Choose which layers to export
+   * Auto - will export any new layers since the last export
+   * Selected - will export the layers manually selected in the timeline
+
+       .. image:: images/AE_8_tjpanel_add_options.png
+        :alt: TrackerJack Add Tab Options
