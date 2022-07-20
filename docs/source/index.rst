@@ -46,10 +46,12 @@ how to :doc:`installation` the project.
    :caption: Contents:
 
    index
+   
    installation
+   
    quick_start
+   
    panel_options
-      
    
 .. note::
    This project is under active development.
