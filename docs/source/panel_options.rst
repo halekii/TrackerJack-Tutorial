@@ -16,11 +16,12 @@ _________________
 
 |InstallAEPanel| the UI Panel and open After Effects if you haven't already.
 
-   .. |InstallAEPanel| raw:: html
+.. |InstallAEPanel| raw:: html
 
       <a href="https://trackerjack-tutorial.readthedocs.io/en/latest/installation.html#after-effects-panel-install">Install</a>
 
-    .. image:: images/AE_1_tjpanel.png
+
+   .. image:: images/AE_1_tjpanel.png
         :alt: After Effects TrackerJack Panel
         
 Under the Create tab are only two entries to make in order create the initial export of your tracked composition from After Effects to a JSON file that the Blender TrackerJack add-on will import. The values for Focal Length and Angle of View boxes which can be copied from the Camera Settings panel.
