@@ -39,7 +39,14 @@ Features
 * Add additional pointclouds and layers after intital file is built.
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
+   index
+   installation
+   quick_start
+   panel_options
    
 .. note::
    This project is under active development.
