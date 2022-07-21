@@ -89,7 +89,7 @@ Blender Import Options Panel
  .. image:: images/BP_1_full_panel.png
     :alt: TrackerJack Blender Import Options
       
- .. |InstallAEPanel| raw:: html
+ .. |InstallBIPanel| raw:: html
 
        <a href="https://trackerjack-tutorial.readthedocs.io/en/latest/installation.html#blender-add-on-install">Install</a>
 
