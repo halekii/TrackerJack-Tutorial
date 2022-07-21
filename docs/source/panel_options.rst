@@ -94,3 +94,10 @@ Blender Import Options Panel
         
 Import Settings
 _________________
+
+    .. image:: images/BP_2_import_settings.png
+        :alt: TrackerJack Import Settings
+ 
+  * 1. Import AE Scene - This is the default setting, to be used for the first import of a JSON file to set up your scene.
+   
+  * 2. Add Additional Tracked Items - Use this setting to update your scene with any with additional items you create in After Effects.
