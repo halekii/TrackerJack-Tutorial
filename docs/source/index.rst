@@ -24,16 +24,22 @@ Blender is a fantastic tool with many powerful features for 3D. While it contain
 ---------------------------------
 How?
 ---------------------------------
-TrackerJack has 2 components - an Adobe After Effects Panel to export the tracked data and a Blender add-on to import the data into your Blender file. 
-   #. Track your footage in After Effects. Create nulls and solids as you desire to add details to your scene. Add the Camera information to the TrackerJack Panel and export a JSON file with all of your tracked data.
-   #. Use the TrackerJack Import in Blender to create a scene: 
+TrackerJack has 2 components - 
+   * Adobe After Effects Panel to export the tracked data 
+   * Blender Add-on to import the data into your Blender file. 
+   
+   #. Track your footage in After Effects. 
+   #. Create nulls and solids as you desire to add details to your scene. 
+   #. Add the Camera information to the TrackerJack Panel and export a JSON file with all of your tracked data.
+   #. Use the TrackerJack Import in Blender to automatically create a matched scene with: 
       * All 3d camera details, animation, and background footage attached
-      * Scene duration, Framerate, color settings set
+      * Scene duration, Frame Rate, Color Settings
       * Tracked points imported as point clouds with editable vertices
       * Solids imported as Mesh Planes
-      * All imported items parented to a Empty for easy scaling and rotation.
+      * All imported items parented to a Empty named "World" for easy scaling and grid alignment.
       * Human Scale mesh created for use in scaling the scene.
       * Simple Compositor setup by default
+      * Any Solid in your After Effects Timeline named "Shadow" will have a simple Eevee shadowcatcher shader node setup.
 
 ---------------------------------
 Features
