@@ -2,11 +2,11 @@
 Panel Options
 #################
 
-|Video Link|
+//|Video Link|
 
-.. |Video Link| raw:: html
+//.. |Video Link| raw:: html
 
-   <a href="https://youtu.be/MNyxm5eU8Sg?t=63" target="_blank">Video Link</a>
+//   <a href="https://youtu.be/MNyxm5eU8Sg?t=63" target="_blank">Video Link</a>
 
 After Effects Panel
 #################
@@ -84,3 +84,13 @@ Once you've created your scene in Blender and begun modeling, you may decide to 
 
 .. tip::
         You can continue to create additional null layers, name them, and then click Export Additional repeatedly if you want to create more named pointcloud layers before returning to Blender.
+        
+        
+Blender Import Options Panel
+#################
+
+   .. image:: images/BP_1_full_panel.png
+      :alt: TrackerJack Blender Import Options
+        
+Import Settings
+_________________
