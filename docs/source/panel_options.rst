@@ -2,11 +2,6 @@
 Panel Options
 #################
 
-//|Video Link|
-
-//.. |Video Link| raw:: html
-
-//   <a href="https://youtu.be/MNyxm5eU8Sg?t=63" target="_blank">Video Link</a>
 
 After Effects Panel
 #################
