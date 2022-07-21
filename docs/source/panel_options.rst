@@ -84,8 +84,16 @@ Once you've created your scene in Blender and begun modeling, you may decide to 
 Blender Import Options Panel
 #################
 
-   .. image:: images/BP_1_full_panel.png
-      :alt: TrackerJack Blender Import Options
+|InstallBIPanel| the Blender Add-on and open Blender if you haven't already.
+
+ .. image:: images/BP_1_full_panel.png
+    :alt: TrackerJack Blender Import Options
+      
+ .. |InstallAEPanel| raw:: html
+
+       <a href="https://trackerjack-tutorial.readthedocs.io/en/latest/installation.html#blender-add-on-install">Install</a>
+
+
         
 Import Settings
 _________________
