@@ -32,13 +32,21 @@ TrackerJack has 2 components -
    #. Create nulls and solids as you desire to add details to your scene. 
    #. Add the Camera information to the TrackerJack Panel and export a JSON file with all of your tracked data.
    #. Use the TrackerJack Import in Blender to automatically create a matched scene with: 
+   
       * All 3d camera details, animation, and background footage attached
+      
       * Scene duration, Frame Rate, Color Settings
+      
       * Tracked points imported as point clouds with editable vertices
+      
       * Solids imported as Mesh Planes
+      
       * All imported items parented to a Empty named "World" for easy scaling and grid alignment.
+      
       * Human Scale mesh created for use in scaling the scene.
+      
       * Simple Compositor setup by default
+      
       * Any Solid in your After Effects Timeline named "Shadow" will have a simple Eevee shadowcatcher shader node setup.
 
 ---------------------------------
@@ -50,7 +58,7 @@ Features
 * Longer and more complicated tracks.
 * Easy to us scene alignment and real world scaling.
 * Speed shortcuts like background footage and composition node setup.
-* Add additional pointclouds and layers after intital file is built.
+* Add additional pointclouds and layers after intital import.
 
 
 .. toctree::
