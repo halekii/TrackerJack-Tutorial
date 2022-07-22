@@ -61,6 +61,7 @@ Features
    installation
    quick_start
    panel_options
+   extras
    
 .. note::
    This project is under active development.
