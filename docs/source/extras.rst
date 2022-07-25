@@ -13,7 +13,7 @@ _________________
     .. image:: images/Extra_ShadowCatcher.gif
         :alt: TrackerJack Import Eevee ShadowCatcher
         
-This is a hidden feature. While shadow catchers are built into Cycles, Trackerjack can create a simple proceedural shadowcatcher material for use with eevee.
+This is a hidden feature. While shadow catchers are built into Cycles, Trackerjack can create a simple procedural shadowcatcher material for use with eevee.
 
 #. Rename a tracked solid to "Shadow" in After Effects.
 #. Export the JSON file with the TrackerJack After Effects Panel.
