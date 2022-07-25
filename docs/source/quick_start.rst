@@ -6,7 +6,7 @@ Quick Start
 
 .. |Video Link| raw:: html
 
-   <a href="https://youtu.be/XCLYPqfBJSM?t=00m04s" target="_blank">Video Link</a>
+   <a href="https://youtu.be/XCLYPqfBJSM?" target="_blank">Video Link</a>
    
 After Effects
 #################
