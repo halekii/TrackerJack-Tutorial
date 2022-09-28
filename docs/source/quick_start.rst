@@ -65,6 +65,8 @@ Troubleshooting
         :alt: Export JSON
     .. tip::
         "Allow scripts to write files and access network" must be enabled in AE Preferences.
+        
+    After Effects Language should be set to English.
 
 Blender
 #################
