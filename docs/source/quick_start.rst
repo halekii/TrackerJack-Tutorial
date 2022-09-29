@@ -50,7 +50,7 @@ After Effects
         
 #. Using the TrackerJack Panel
 
-   \a) Enter the Camera information on the TrackerJack panel
+   \a) Enter the Camera information on the TrackerJack panel. (Camera Settings units should be in millimeters.)
    
    \b) Save the After Effects file.
    
@@ -65,6 +65,8 @@ Troubleshooting
         :alt: Export JSON
     .. tip::
         "Allow scripts to write files and access network" must be enabled in AE Preferences.
+        
+    TrackerJack only works when After Effects User Interface is in English. A universal language version is being tested.
 
 Blender
 #################
